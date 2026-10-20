@@ -1,0 +1,16 @@
+—系统时间
+Tue Oct 20 17:48:05 CST 2026
+
+ 最近十条命令
+  266  cd missing-semester/
+  267  vim lesson1_notes.md 
+  268  ls
+  269  mv lesson1_notes.md  notes/
+  270  ls notes
+  271  cd ..notes
+  272  vim lesson1_notes.md 
+  273  mv lesson1_notes.md 2027/zyt080221/notes/
+  274  cd 2027/zyt080221/homework/
+  275  ./script.sh  > output.txt 
+“n笔记字数”
+137 ../notes/lesson1_notes.md
